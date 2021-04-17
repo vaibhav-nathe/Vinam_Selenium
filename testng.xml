@@ -1,0 +1,9 @@
+<suite name="Suite1" verbose="2">
+    <test name="Automation Test">
+        <parameter name="env" value="SIT"/>
+        <classes>
+            <class name="io.vinam.AutomationCreation"/>
+            <class name="io.vinam.LoginTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,15 @@
+
+z
+java:S1450"XRemove the "excelFile" field and declare it as a local variable in the relevant methods.(òŒÜÎüÿÿÿÿ8êèª/
+s
+java:S1450"WRemove the "filePath" field and declare it as a local variable in the relevant methods.(÷ë¢P8êèª/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ü˜úúÿÿÿÿ8êèª/
+v
+java:S1450"ZRemove the "ExcelWSheet" field and declare it as a local variable in the relevant methods.(§½æ=8êèª/
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(“·‹P8êèª/
+w
+java:S3008"URename this field "ExcelWBook" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‰¬Úøÿÿÿÿ8êèª/
+r
+java:S3008"VRename this field "ExcelWSheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§½æ=8êèª/
+{
+java:S1450"YRemove the "ExcelWBook" field and declare it as a local variable in the relevant methods.(©‰¬Úøÿÿÿÿ8êèª/

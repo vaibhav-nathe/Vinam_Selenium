@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" verbose="2">
+  <test thread-count="5" name="Automation Test(failed)" verbose="2">
+    <parameter name="env" value="SIT"/>
+    <classes>
+      <class name="io.vinam.AutomationCreation">
+        <methods>
+          <include name="setUp"/>
+          <include name="Automation" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- io.vinam.AutomationCreation -->
+    </classes>
+  </test> <!-- Automation Test(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

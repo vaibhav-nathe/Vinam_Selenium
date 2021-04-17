@@ -1,0 +1,19 @@
+
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8™¹Ã€/
+s	java:S116"WRename this field "CreateButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å°¢£8™¹Ã€/
+w	java:S116"[Rename this field "CreateAutomation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÃ”Å8™¹Ã€/
+j	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¤†
+8™¹Ã€/
+w	java:S116"VRename this field "ChoseTarget" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¨êñùÿÿÿÿ8™¹Ã€/
+v	java:S116"ZRename this field "ChoseYourTarget" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÈø€8™¹Ã€/
+s	java:S116"WRename this field "SelectOption" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àå÷ 8™¹Ã€/
+u	java:S116"YRename this field "SelectContinue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼êóÑ8™¹Ã€/
+t	java:S116 "XRename this field "SelectEndDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å ÀÄ8™¹Ã€/
+u	java:S116""TRename this field "ClickDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‘ëäıÿÿÿÿ8™¹Ã€/
+t	java:S116$"XRename this field "ClickContinue" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—÷ïƒ8™¹Ã€/
+S
+java:S1854B"6Remove this useless assignment to local variable "js".(ôŞ§°8™¹Ã€/
+]	java:S125E"<This block of commented-out lines of code should be removed.(ãÖ£éşÿÿÿÿ8™¹Ã€/
+D
+java:S1481B"'Remove this unused "js" local variable.(ôŞ§°8™¹Ã€/
