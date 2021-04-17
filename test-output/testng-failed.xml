@@ -6,7 +6,8 @@
       <class name="io.vinam.AutomationCreation">
         <methods>
           <include name="setUp"/>
-          <include name="Automation" invocation-numbers="0 1"/>
+          <include name="tearDown"/>
+          <include name="Automation" invocation-numbers="0"/>
         </methods>
       </class> <!-- io.vinam.AutomationCreation -->
     </classes>

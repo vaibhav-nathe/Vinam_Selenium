@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 public class AutomationCreation extends TestBase {
 
     @Test(dataProvider = "AutomationCreation")
-    public void Automation(String name, String campName, String subject, String senderName) throws Exception {
+    public void Automation(String name, String campName, String subject, String senderName, String StartdaystoAdd, String EnddaystoAdd) throws Exception {
 		{
 
 		    login.enterEmail(properties.getProperty("EmailID"));
@@ -49,7 +49,8 @@ public class AutomationCreation extends TestBase {
 		    automation.clickContinueButton();
 		    Thread.sleep(2000);
 		    log.info("Click on continue button");
-		    automation.clickEndDate();
+		    automation.clickStartDate(Integer.parseInt(StartdaystoAdd));
+		    automation.clickEndDate(Integer.parseInt(EnddaystoAdd));
 		    ScreenShotUtility.takeScreenShot(driver);
 		    log.info("select end date");
 		    automation.clickContinue();
